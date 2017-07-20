@@ -1,5 +1,3 @@
-SimpleTwitter
-
 Simple twitter functional program in Java
 
 Implement simple distributed system with blog posting and following
